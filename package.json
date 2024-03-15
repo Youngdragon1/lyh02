@@ -1,12 +1,12 @@
 {
-"name": "lyh200805",
-"version": "1.0.2",
+"name": "lyh200806",
+"version": "1.0.0",
 "description": "A sample npm package",
 "main": "index.js",
 "scripts": {},
 "repository": {
 "type": "git",
-"url": "https://github.com/Youngdragon1/lyh01.git"
+"url": "https://github.com/Youngdragon1/lyh02.git"
 },
 "keywords": [
 "sample",
